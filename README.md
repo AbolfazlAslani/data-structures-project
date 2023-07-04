@@ -1,4 +1,4 @@
-![Screenshot_2023-07-04-13-55-06-986_com example myapplication](https://github.com/AbolfazlAslani/data-structures-project/assets/40968040/654121a2-869d-482b-a52c-9cef3de4f0a1)![Screenshot_2023-07-04-13-55-06-986_com example myapplication](https://github.com/AbolfazlAslani/data-structures-project/assets/40968040/84817f56-78ab-4639-9572-a2b5bbf5b063)# data-structures-project
+# data-structures-project
 This Is an android kotlin project for the university data structures course
 the game is designed to identify the blocks with the same color that are each other
 
